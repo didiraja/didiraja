@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dico</h1>
 <h3 align="center">Experienced developer on core JS and real world apps, working on a nation-wide company and looking to relocate on positions with a modern stack.</h3>
 
-HTML5, CSS3, CSS Grid, Javascript/Ecmascript, Typescript, React, Svelte, Next, Pre/Post CSS tooling, Git, Webpack, Vite, Node and Unit tests (Jest/Vitest).
-
 - 🌱 I’m currently learning **Typescript, Tests and DBs**
 
 - 💬 Ask me about **Music, Javascript, Comics, Svelte and React**
