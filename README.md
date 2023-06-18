@@ -2,7 +2,7 @@
 
 ### Intermediate JS developer, and formerly Graphic Designer
 
-- 💬 **Personal Interests:** Music, Javascript, Comics, Svelte and React
+- 💬 **Personal Interests:** Music, Coding and Comics
 
 - ⚡ Fun facts about me: **Funny and Chill**
 
