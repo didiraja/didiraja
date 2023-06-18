@@ -15,6 +15,6 @@
  - Next, Vite, Webpack, Jest, Vitest
  - SQL, MySQL, PostgreSQL, Mongo DB
  - Wordpress, WooCommerce, Elementor, PHP
- - Node, Linux, Git, , CI/CD, Azure, Vercel
+ - Node, Linux, Git, CI/CD, Azure, Vercel
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=didiraja&show_icons=true&locale=en" alt="didiraja" /></p>
