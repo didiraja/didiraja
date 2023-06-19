@@ -26,6 +26,18 @@
    - Formerly maintainer
    - [Repo](https://github.com/stone-payments/pos-mamba-sdk)
      
+ - **Landing page** 
+   - Tech test for Rd Station
+   - [Demo](https://rds-landing.vercel.app/) | [Repo](https://github.com/didiraja/rds-landing)
+     
+ - **Weather App**
+   - Tech test for ContaAzul
+   - [Demo](https://desafio-conta-azul.vercel.app/) | [Repo](https://github.com/didiraja/desafio-conta-azul)
+     
  - **Spell Grimoire**
    - List of spells from D&D 5e - Player Book (Brazilian Portuguese)
    - [Demo](https://dnd-5e-magias.vercel.app/) | [Repo](https://github.com/didiraja/dnd-5e-magias)
+     
+ - **Btix App**
+   - Tech test for Btix
+   - [Demo](https://btix-challenge.vercel.app/) | [Repo](https://github.com/didiraja/btix-challenge/tree/main)
