@@ -4,7 +4,7 @@
 
 - 💬 **Personal Interests:** Music, Coding and Comics
 
-- ⚡ Fun facts about me: **Funny and Chill**
+- ⚡ **Fun facts about me:** Funny and Chill
 
 ### 📫 How to reach me
 [e-mail](mailto:didiraja@hotmail.com) | [LinkedIn](https://linkedin.com/in/didiraja)
