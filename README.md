@@ -18,8 +18,12 @@
  - Node, Linux, Git, CI/CD, Azure, Vercel
 
 ## Portfolio
+ - *New!* **ComicTracker** 
+   - Minimal CRUD to practice Fullstack skills: Node and SQL
+   - [Demo](https://comic-tracker.vercel.app/) | [Repo](https://github.com/didiraja/comictracker)
+
  - **Sextou!** 
-   - Platform to show local events from Rio de Janeiro
+   - Platform to show local events from Rio de Janeiro 
    - [Demo](https://sextou.rio/) | [Repo](https://github.com/didiraja/sextou-front)
      
  - **Mamba SDK (Stone Co.)**
