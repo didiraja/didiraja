@@ -20,7 +20,7 @@
 ## Portfolio
  - *New!* **ComicTracker** 
    - Minimal CRUD to practice Fullstack skills: Node and SQL
-   - [Demo](https://comictracker.vercel.app/) | [Repo](https://github.com/didiraja/comictracker)
+   - [Demo](https://comic-tracker.vercel.app/) | [Repo](https://github.com/didiraja/comictracker)
 
  - **Sextou!** 
    - Platform to show local events from Rio de Janeiro 
