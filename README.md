@@ -13,7 +13,7 @@
  - HTML5, CSS3, CSS Grid, Sass, Stylus, PostCSS
  - Javascript/Ecmascript, Typescript, React, Redux, React Hooks, Rest API, React Router, Svelte, SvelteKit
  - Next, Vite, Webpack, Jest, Vitest
- - SQL, MySQL, PostgreSQL, Mongo DB
+ - SQL, MySQL, PostgreSQL, MongoDB
  - Wordpress, WooCommerce, Elementor, PHP
  - Node, Linux, Git, CI/CD, Azure, Vercel
 
@@ -29,6 +29,10 @@
  - **Mamba SDK (Stone Co.)**
    - Formerly maintainer
    - [Repo](https://github.com/stone-payments/pos-mamba-sdk)
+  
+ - *New!* **Btix App**
+   - Tech test for Btix. Updated with Typescript and Jest.
+   - [Demo](https://btix-challenge.vercel.app/) | [Repo](https://github.com/didiraja/btix-challenge/tree/main)
      
  - **Landing page** 
    - Tech test for Rd Station
@@ -42,6 +46,4 @@
    - List of spells from D&D 5e - Player Book (Brazilian Portuguese)
    - [Demo](https://dnd-5e-magias.vercel.app/) | [Repo](https://github.com/didiraja/dnd-5e-magias)
      
- - **Btix App**
-   - Tech test for Btix
-   - [Demo](https://btix-challenge.vercel.app/) | [Repo](https://github.com/didiraja/btix-challenge/tree/main)
+ 
