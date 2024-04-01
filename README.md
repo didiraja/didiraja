@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dico
 
-## Intermediate JS developer, and formerly Graphic Designer
+## Senior JS developer, and formerly Graphic Designer
 
 - 💬 **Personal Interests:** Music, Coding and Comics
 
