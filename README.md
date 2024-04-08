@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dico
 
-## Senior JS developer, and formerly Graphic Designer
+## Senior Frontend Developer
 
 - 💬 **Personal Interests:** Music, Coding and Comics
 
@@ -13,26 +13,25 @@
  - HTML5, CSS3, CSS Grid, Sass, Stylus, PostCSS
  - Javascript/Ecmascript, Typescript, React, Redux, React Hooks, Rest API, React Router, Svelte, SvelteKit
  - Next, Vite, Webpack, Jest, Vitest
- - SQL, MySQL, PostgreSQL, MongoDB
+ - SQLite, MySQL, PostgreSQL, MongoDB
  - Wordpress, WooCommerce, Elementor, PHP
  - Node, Linux, Git, CI/CD, Azure, Vercel
 
 ## Portfolio
- - *New!* **ComicTracker** 
+- *New!* **Pass.in** 
+   - API for a ghost event platform, allowing manage events, attendees and badges
+   - [Repo](https://github.com/didiraja/nlw-passin/)
+ - **ComicTracker** 
    - Minimal CRUD to practice Fullstack skills: Node and SQL
    - [Demo](https://comic-tracker.vercel.app/) | [Repo](https://github.com/didiraja/comictracker)
 
  - **Sextou!** 
    - Platform to show local events from Rio de Janeiro 
-   - [Demo](https://sextou.rio/) | [Repo](https://github.com/didiraja/sextou-front)
+   - [Demo](https://sextou-front-git-feature-ssr-didiraja.vercel.app/) | [Repo](https://github.com/didiraja/sextou-front)
      
  - **Mamba SDK (Stone Co.)**
    - Formerly maintainer
    - [Repo](https://github.com/stone-payments/pos-mamba-sdk)
-  
- - *New!* **Btix App**
-   - Tech test for Btix. Updated with Typescript and Jest.
-   - [Demo](https://btix-challenge.vercel.app/) | [Repo](https://github.com/didiraja/btix-challenge/tree/main)
      
  - **Landing page** 
    - Tech test for Rd Station
